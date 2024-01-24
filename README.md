@@ -3,10 +3,10 @@
 [python vertual setting]
 
 conda create -n code test python=3.8.10
-$ conda create -n code_test python=3.8.10
-$ conda activate code_test
-$ pip install numpy
-$ conda install pytorch pytorch-cuda pytorch –c nvidia
+  $ conda create -n code_test python=3.8.10
+  $ conda activate code_test
+  $ pip install numpy
+  $ conda install pytorch pytorch-cuda pytorch –c nvidia
 
 [Training phase using IL dataset]
 
